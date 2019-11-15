@@ -1,5 +1,5 @@
 # unity-scripts
-A temporary repository for two games in C# using the Unity API
+Temporary repository for two games in C# using the Unity API
 
 Block-Breaker: A game based on Breakout (Atari 2600)
 Laser-Defender: A game based on Galaxian (Atari 2600)
