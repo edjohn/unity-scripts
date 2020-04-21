@@ -1,2 +1,2 @@
 # unity-scripts
-repository for games in coded in C# through unity
+repository for C# scripts for unity games
